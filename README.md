@@ -1,32 +1,26 @@
 # Minh Tín
 
-I build web systems that have to work beyond the demo: clear workflows, maintainable APIs, and interfaces that stay useful as a product grows.
+I build web software for real workflows: systems that need clear behavior, maintainable code, and enough attention to the details that usually appear after the demo.
 
-Mình là software developer tập trung vào các sản phẩm web thực tế — từ hệ thống nghiệp vụ và quản lý nội bộ đến các ứng dụng BIM, 3D và WebGIS. Mình thích đi đủ sâu vào cả phần giao diện, backend, dữ liệu và triển khai để hiểu một hệ thống vận hành như thế nào, không chỉ dừng ở việc làm cho nó chạy được.
+My work sits between product engineering and platform work. I have worked across business systems, authentication and permissions, BIM and 3D visualization, and browser-based WebGIS. I am comfortable moving between frontend, backend, data, and deployment when that is what the product needs.
 
-## What I work on / Mình đang làm
+## Areas of focus
 
-- Full-stack web applications with React, TypeScript and Node.js
-- Backend services and internal business systems with Java, Python and REST APIs
-- BIM, 3D visualization and WebGIS experiences for the browser
-- Authentication, permissions, workflows and the details that make software dependable
+- Full-stack product development with React, TypeScript, Node.js, and Java
+- API design, authentication, permissions, and workflow-heavy systems
+- BIM, 3D visualization, and WebGIS on the web
+- Deployment, testing, and the operational details that keep software dependable
 
-I enjoy working on the parts that are easy to overlook: edge cases, deployment details, and small interactions that make a system feel solid.
+I care about code that is easy to read, decisions that can be explained, and interfaces that remain usable when the happy path is no longer enough.
 
-Mình quan tâm đến code dễ đọc, luồng xử lý rõ ràng và những quyết định có thể giải thích được. Khi làm việc với một hệ thống lớn, mình thường ưu tiên sự ổn định và khả năng bảo trì lâu dài hơn là một giải pháp trông ấn tượng trong thời gian ngắn.
+## Languages
 
-## Current stack
+TypeScript . Java . Python . JavaScript . SQL . Bash . PowerShell
 
-TypeScript · React · Node.js · Java · Python · PostgreSQL · Docker · Git
+## Tools and technologies
 
-## Selected focus
+React . Node.js . PostgreSQL . Docker . Git . CesiumJS
 
-Most of my current work is private and built for real teams and real workflows. The public profile is intentionally kept small; I will share public examples when they are ready to be useful, not just to fill a list of repositories.
+Most of my current work is private and built for real teams. I keep this profile intentionally small; public examples will appear when they are ready to be understood and used, not just to make the page look busy.
 
-Phần lớn công việc hiện tại của mình là các dự án private cho doanh nghiệp. Mình muốn các project public sau này có đủ bối cảnh, README và chất lượng để người khác có thể hiểu và sử dụng được.
-
-## A little more
-
-I am still learning, still refining how I build, and still happy to revisit an old decision when the product gives me a better reason.
-
-Mình vẫn đang học thêm mỗi ngày, từ kiến trúc hệ thống đến những chi tiết nhỏ trong trải nghiệm người dùng. GitHub này là nơi mình lưu lại quá trình đó một cách có chọn lọc.
+I am still learning and still revisiting old decisions when the product gives me a better reason. This profile is a quiet record of that process.
