@@ -15,11 +15,23 @@ I care about code that is easy to read, decisions that can be explained, and int
 
 ## Languages
 
-TypeScript . Java . Python . JavaScript . SQL . Bash . PowerShell
+| | |
+|---|---|
+| TypeScript | Java |
+| Python | JavaScript |
+| SQL | Bash |
+| PowerShell | |
 
 ## Tools and technologies
 
-React . Node.js . PostgreSQL . Docker . Git . CesiumJS
+| Area | Technologies |
+|---|---|
+| Frontend | React |
+| Backend | Node.js |
+| Data | PostgreSQL |
+| Infrastructure | Docker |
+| Version control | Git |
+| 3D and geospatial | CesiumJS |
 
 Most of my current work is private and built for real teams. I keep this profile intentionally small; public examples will appear when they are ready to be understood and used, not just to make the page look busy.
 
